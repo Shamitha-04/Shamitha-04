@@ -93,6 +93,7 @@ Mentored 250+ participants in C#, .NET Framework, and Visual Studio; organized a
 ### 🎓 Education
 
 **M.S. in Artificial Intelligence** - University of Texas at San Antonio (2024 - 2026) - GPA: 4.00
+
 **B.Tech in Computer Science & Engineering (Data Science)** - Vignana Bharathi Institute of Technology, India (2020 - 2024)
 
 ---
