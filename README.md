@@ -69,11 +69,11 @@ I'm currently seeking full-time opportunities in **AI/ML, Data Analytics, or Sof
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[F1GridIQ]((https://github.com/Shamitha-04/F1_Model))** — F1 Race Outcome Prediction & Analytics Dashboard | Built predictive models on 26K+ Formula 1 race records; Random Forest and Neural Network models plus an interactive Plotly dashboard explaining 73% of race variance | Python, Pandas, NumPy, Scikit-learn, Plotly, HTML/CSS/JS, Google Colab |
-| **[Boston Crime Analysis]((https://github.com/Shamitha-04/Boston-Crime-Analysis))** | End-to-end EDA and geospatial/statistical analysis of 300K+ Boston crime incident records, including hotspot mapping, hypothesis testing, and a Random Forest classifier | R, Tidyverse, ggplot2, Leaflet, Caret, randomForest |
-| **[Phishing URL Detector]((https://github.com/Shamitha-04/Phishing-Website-Detection))** | Flask web app that classifies URLs as phishing or legitimate in real time using a trained text-classification model | Python, Flask, Scikit-learn, HTML/CSS |
-| **[Impact of Revenues on Education Enrollment]((https://github.com/Shamitha-04/Impact_of_Revenues_on_Education_Enrollment))** | Analyzed nationwide (1992–2019) U.S. education finance data; built a linear regression model (R² = 0.898) predicting education expenditure from enrollment | R, SAS, Correlation Analysis, Regression Modeling |
-| **[Automated Challan Generation System Using Deep Neural Networks]((https://github.com/Shamitha-04/Vechile-violation-detection-and-challan-generation))** - *Published on ResearchGate (09/2025)* | Deep Neural Network + OCR pipeline for license plate recognition, powering automated e-challan generation and traffic monitoring | Python, OpenCV, Deep Learning, OCR |
+| **[F1GridIQ](https://github.com/Shamitha-04/F1_Model)** - F1 Race Outcome Prediction & Analytics Dashboard | Built predictive models on 26K+ Formula 1 race records; Random Forest and Neural Network models plus an interactive Plotly dashboard explaining 73% of race variance | Python, Pandas, NumPy, Scikit-learn, Plotly, HTML/CSS/JS, Google Colab |
+| **[Boston Crime Analysis](https://github.com/Shamitha-04/Boston-Crime-Analysis)** | End-to-end EDA and geospatial/statistical analysis of 300K+ Boston crime incident records, including hotspot mapping, hypothesis testing, and a Random Forest classifier | R, Tidyverse, ggplot2, Leaflet, Caret, randomForest |
+| **[Phishing URL Detector](https://github.com/Shamitha-04/Phishing-Website-Detection)** | Flask web app that classifies URLs as phishing or legitimate in real time using a trained text-classification model | Python, Flask, Scikit-learn, HTML/CSS |
+| **[Impact of Revenues on Education Enrollment](https://github.com/Shamitha-04/Impact_of_Revenues_on_Education_Enrollment)** | Analyzed nationwide (1992–2019) U.S. education finance data; built a linear regression model (R² = 0.898) predicting education expenditure from enrollment | R, SAS, Correlation Analysis, Regression Modeling |
+| **[Automated Challan Generation System Using Deep Neural Networks](https://github.com/Shamitha-04/Vechile-violation-detection-and-challan-generation)** - *Published on ResearchGate (09/2025)* | Deep Neural Network + OCR pipeline for license plate recognition, powering automated e-challan generation and traffic monitoring | Python, OpenCV, Deep Learning, OCR |
 
 ---
 
@@ -116,4 +116,4 @@ Mentored 250+ participants in C#, .NET Framework, and Visual Studio; organized a
   <a href="https://devpost.com/elugubantishamitha"><img src="https://img.shields.io/badge/-Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to full-time roles in AI/ML, Data Analytics, and Software Engineering — let's build something great!</i></p>
+<p align="center"><i>Open to full-time roles in AI/ML, Data Analytics, and Software Engineering - let's build something great!</i></p>
