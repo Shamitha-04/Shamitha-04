@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shamitha-elugubanti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Shamitha-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://devpost.com/elugubantishamitha"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 </p>
 
@@ -17,7 +16,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a recent **M.S. in Artificial Intelligence** graduate (2026) from the **University of Texas at San Antonio**, with a 4.00 GPA and hands-on experience delivering end-to-end AI and data-driven solutions. I enjoy turning messy, real-world data into predictive models, dashboards, and tools people can actually use — from race-outcome predictors to crime pattern analysis to phishing detection.
+I'm a recent **M.S. in Artificial Intelligence** graduate (2026) from the **University of Texas at San Antonio**, with a 4.00 GPA and hands-on experience delivering end-to-end AI and data-driven solutions. I enjoy turning messy, real-world data into predictive models, dashboards, and tools people can actually use - from race-outcome predictors to crime pattern analysis to phishing detection.
 
 I'm currently seeking full-time opportunities in **AI/ML, Data Analytics, or Software Engineering**.
 
@@ -70,33 +69,31 @@ I'm currently seeking full-time opportunities in **AI/ML, Data Analytics, or Sof
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[F1GridIQ](https://github.com/Shamitha-04)** — F1 Race Outcome Prediction & Analytics Dashboard | Built predictive models on 26K+ Formula 1 race records; Random Forest and Neural Network models plus an interactive Plotly dashboard explaining 73% of race variance | Python, Pandas, NumPy, Scikit-learn, Plotly, HTML/CSS/JS, Google Colab |
-| **[Boston Crime Analysis](https://github.com/Shamitha-04)** | End-to-end EDA and geospatial/statistical analysis of 300K+ Boston crime incident records, including hotspot mapping, hypothesis testing, and a Random Forest classifier | R, Tidyverse, ggplot2, Leaflet, Caret, randomForest |
-| **[Phishing URL Detector](https://github.com/Shamitha-04)** | Flask web app that classifies URLs as phishing or legitimate in real time using a trained text-classification model | Python, Flask, Scikit-learn, HTML/CSS |
-| **[Impact of Revenues on Education Enrollment](https://github.com/Shamitha-04)** | Analyzed nationwide (1992–2019) U.S. education finance data; built a linear regression model (R² = 0.898) predicting education expenditure from enrollment | R, SAS, Correlation Analysis, Regression Modeling |
-| **Automated Challan Generation System Using Deep Neural Networks** — *Published on ResearchGate (09/2025)* | Deep Neural Network + OCR pipeline for license plate recognition, powering automated e-challan generation and traffic monitoring | Python, OpenCV, Deep Learning, OCR |
-
-> 📌 Swap the links above for the actual repo URLs once each project is pushed to GitHub.
+| **[F1GridIQ]([https://github.com/Shamitha-04](https://github.com/Shamitha-04/F1_Model))** — F1 Race Outcome Prediction & Analytics Dashboard | Built predictive models on 26K+ Formula 1 race records; Random Forest and Neural Network models plus an interactive Plotly dashboard explaining 73% of race variance | Python, Pandas, NumPy, Scikit-learn, Plotly, HTML/CSS/JS, Google Colab |
+| **[Boston Crime Analysis]([https://github.com/Shamitha-04](https://github.com/Shamitha-04/Boston-Crime-Analysis))** | End-to-end EDA and geospatial/statistical analysis of 300K+ Boston crime incident records, including hotspot mapping, hypothesis testing, and a Random Forest classifier | R, Tidyverse, ggplot2, Leaflet, Caret, randomForest |
+| **[Phishing URL Detector]([https://github.com/Shamitha-04](https://github.com/Shamitha-04/Phishing-Website-Detection))** | Flask web app that classifies URLs as phishing or legitimate in real time using a trained text-classification model | Python, Flask, Scikit-learn, HTML/CSS |
+| **[Impact of Revenues on Education Enrollment]([https://github.com/Shamitha-04](https://github.com/Shamitha-04/Impact_of_Revenues_on_Education_Enrollment))** | Analyzed nationwide (1992–2019) U.S. education finance data; built a linear regression model (R² = 0.898) predicting education expenditure from enrollment | R, SAS, Correlation Analysis, Regression Modeling |
+| **[Automated Challan Generation System Using Deep Neural Networks]([https://github.com/Shamitha-04](https://github.com/Shamitha-04/Vechile-violation-detection-and-challan-generation))** - *Published on ResearchGate (09/2025)* | Deep Neural Network + OCR pipeline for license plate recognition, powering automated e-challan generation and traffic monitoring | Python, OpenCV, Deep Learning, OCR |
 
 ---
 
 ### 💼 Experience
 
-**Lab Assistant** — *Intro to Computer Programming, UTSA* (01/2026 – 05/2026)
+**Lab Assistant** - *Intro to Computer Programming, UTSA* (01/2026 - 05/2026)
 Analyzed 30+ student performance records to identify programming error patterns; maintained progress logs that reduced repeat errors by 20%.
 
-**Human Resources Intern** — *Aramark, UTSA* (08/2024 – 12/2024)
+**Human Resources Intern** - *Aramark, UTSA* (08/2024 - 12/2024)
 Managed HR records for 200+ employees with 98%+ accuracy; streamlined reporting workflows, cutting manual effort by 30%.
 
-**Secretary** — *IEEE Student Chapter, VBIT, India* (10/2022 – 05/2024)
+**Secretary** - *IEEE Student Chapter, VBIT, India* (10/2022 - 05/2024)
 Mentored 250+ participants in C#, .NET Framework, and Visual Studio; organized a Neuro-Robotics workshop.
 
 ---
 
 ### 🎓 Education
 
-**M.S. in Artificial Intelligence** — University of Texas at San Antonio (2024 – 2026) — GPA: 4.00
-**B.Tech in Computer Science & Engineering (Data Science)** — Vignana Bharathi Institute of Technology, India (2020 – 2024)
+**M.S. in Artificial Intelligence** - University of Texas at San Antonio (2024 - 2026) - GPA: 4.00
+**B.Tech in Computer Science & Engineering (Data Science)** - Vignana Bharathi Institute of Technology, India (2020 - 2024)
 
 ---
 
